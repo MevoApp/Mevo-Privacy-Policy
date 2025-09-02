@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Privacy Policy – Mevo</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; line-height: 1.45; padding: 24px; color: #111; }
+    h1, h2 { margin-top: 1.2em; }
+    h1 { font-size: 1.6em; }
+    h2 { font-size: 1.2em; }
+    p { margin: 0.6em 0; }
+    ul { margin: 0.4em 0 0.8em 1.4em; }
+    .meta { margin-bottom: 1em; }
+    .section { margin-top: 1em; }
+    .contact-list { list-style: none; padding-left: 0; margin: 0.4em 0; }
+    .contact-list li { margin: 0.2em 0; }
+    footer { margin-top: 2em; font-size: 0.95em; color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy – Mevo</h1>
+  <div class="meta">
+    <p><strong>Last updated:</strong> 31 August 2025</p>
+    <p><strong>Project:</strong> Mevo – Erasmus+ mobile application (Grant No. 2024–1-PL01-KA121-SCH-000203292)</p>
+    <p><strong>Developer:</strong> Michał Małeczek, XXI Hugo Kołłątaj High School, Warsaw</p>
+    <p><strong>Contact:</strong> michalmaleczek@gmail.com</p>
+    <p><strong>Project coordinator:</strong> Kamil Olak – olak.kamil@21lo.waw.pl</p>
+  </div>
+
+  <div class="section">
+    <h2>1. Introduction</h2>
+    <p>Mevo is an Android app developed within the Erasmus+ exchange programme to help users care
+    for their mental and physical well-being.</p>
+
+    <p>The app offers meditation, workout planning, nutrition advice, and progress tracking, with
+    content reviewed by:</p>
+
+    <ul>
+      <li>• Edyta Główka, psychologist (meditation &amp; mood)</li>
+      <li>• Marcin Krzysztoszek, certified trainer (workouts)</li>
+      <li>• Ewa Mirowska, dietitian (nutrition)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>2. Data We Collect</h2>
+    <p>During the initial onboarding survey, we may ask for the following optional information:</p>
+
+    <ul>
+      <li>• Username</li>
+      <li>• Date of birth</li>
+      <li>• Weight (kg)</li>
+      <li>• Height (cm)</li>
+      <li>• Gender</li>
+    </ul>
+
+    <p>Additionally, the app stores your preferences locally:</p>
+
+    <ul>
+      <li>• Theme preference (light, dark, or system)</li>
+      <li>• Dynamic colors preference (enabled/disabled)</li>
+      <li>• Contrast settings (standard, medium, or high)</li>
+    </ul>
+
+    <p>These data help personalise the experience. No other personal data or unique identifiers are
+    collected.</p>
+
+    <h3>2.1 Location Data</h3>
+    <p>The app may request location permission to determine your country and provide local mental
+    health support numbers.</p>
+
+    <p><strong>Important:</strong> Location data is processed locally and never transmitted outside your device.</p>
+
+    <ul>
+      <li>• Location is used only to determine your country</li>
+      <li>• No precise coordinates are stored</li>
+      <li>• Location data is not shared with third parties</li>
+      <li>• You can deny location permission at any time</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>3. Purpose &amp; Local Storage</h2>
+    <p>All your answers are stored locally on your device using an encrypted Room database. We use
+    them only to:</p>
+
+    <ul>
+      <li>• Personalise mood tracking</li>
+      <li>• Suggest workout plans</li>
+      <li>• Tailor nutrition tips</li>
+      <li>• Show relevant progress dashboards</li>
+      <li>• Customize app appearance and behavior</li>
+      <li>• Provide country-specific mental health resources</li>
+    </ul>
+
+    <p>Your data never leaves your device. We do not collect, transmit, share, or sell any personal
+    data to servers or third parties.</p>
+
+    <p>The processing is based on your consent and our legitimate interest in providing personalised
+    features without data transmission.</p>
+  </div>
+
+  <div class="section">
+    <h2>4. Permissions</h2>
+    <p>Mevo may request the following permissions:</p>
+
+    <p><strong>Location Access (Coarse/Fine):</strong><br />
+    Purpose: Determine country for local mental health support</p>
+
+    <ul>
+      <li>• Permission is optional and can be denied</li>
+      <li>• No precise location tracking or storage</li>
+      <li>• Location data is never transmitted externally</li>
+    </ul>
+
+    <p>All permissions can be managed through your device settings.</p>
+  </div>
+
+  <div class="section">
+    <h2>5. Third-Party Content &amp; APIs</h2>
+    <p>Mevo may offer links to external platforms (e.g. Spotify, YouTube, podcast apps). These open
+    in your device's default apps. We do not exchange personal data with these platforms and we
+    do not embed third-party SDKs.</p>
+  </div>
+
+  <div class="section">
+    <h2>6. Children's Privacy</h2>
+    <p>Mevo is designed for general audiences. Children under the age of 13 should use the app only
+    with parental supervision.</p>
+
+    <p>We do not knowingly collect any personal information from users under 13 and we do not serve
+    ads.</p>
+
+    <p>If you are a parent or guardian and believe we have inadvertently stored information about
+    your child, please contact us immediately.</p>
+  </div>
+
+  <div class="section">
+    <h2>7. Data Retention &amp; Deletion</h2>
+    <p>Your data is stored only on your device and remains there until you:</p>
+
+    <ul>
+      <li>• Reset data via the in-app Settings menu</li>
+      <li>• Uninstall the app, which deletes all associated records</li>
+    </ul>
+
+    <p>There is no server-side copy or backup of your data.</p>
+  </div>
+
+  <div class="section">
+    <h2>8. Security</h2>
+    <p>User data is stored in an encrypted Room database.</p>
+
+    <p>To further protect your privacy, please ensure your device is secured with a PIN code,
+    password, or biometric lock.</p>
+
+    <p>The app requests minimal permissions, reducing risk of external access.</p>
+  </div>
+
+  <div class="section">
+    <h2>9. Policy Changes</h2>
+    <p>Any updates to this policy will be shown both here and within the app.</p>
+
+    <p>In case of significant changes (e.g. involving cloud storage), we will notify you in-app
+    and/or via available contact methods.</p>
+  </div>
+
+  <div class="section">
+    <h2>10. Contact</h2>
+    <p>If you have any questions or concerns about privacy, contact:</p>
+    <ul class="contact-list">
+      <li>• michalmaleczek@gmail.com</li>
+      <li>• olak.kamil@21lo.waw.pl</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Annex A – Expert Review &amp; Erasmus+ Acknowledgment</h2>
+    <ul>
+      <li>• Meditation section reviewed by psychologist Edyta Główka</li>
+      <li>• Workout plans reviewed by certified trainer Marcin Krzysztoszek</li>
+      <li>• Nutrition materials verified by dietitian Ewa Mirowska</li>
+    </ul>
+
+    <p>Mevo was developed as part of the Erasmus+ project (Grant No.
+    2024–1-PL01-KA121-SCH-000203292).</p>
+
+    <p>Generated Privacy Policy PDF – Mevo</p>
+  </div>
+
+  <footer>
+    <p>Document generated from uploaded file.</p>
+  </footer>
+</body>
+</html>
